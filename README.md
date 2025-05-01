@@ -52,15 +52,6 @@
 - WooCommerce
 - Custom-built e-commerce infrastructures
 
----
-
-## 📈 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=foxyscat&show_icons=true&theme=tokyonight" />
-</p>
-
----
 
 ## 📫 Get in Touch
 
